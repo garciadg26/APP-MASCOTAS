@@ -1,6 +1,7 @@
-# APLICACI�N DE MASCOTAS #
+# APLICACIÓN DE MASCOTAS #
 
 ## Proyecto dedicado al cuidado de mascotas
 
-### Wireframes listos para dise�ar
-### Inicio del dise�o de mi aplicaci�n
+### Wireframes listos para diseñar
+### Inicio del diseño de mi aplicación
+### Última actualización desde el repositorio remoto
